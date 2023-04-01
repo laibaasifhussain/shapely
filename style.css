@@ -1,0 +1,26 @@
+.body{
+    background-size: cover;
+    min-height: 80vh;
+    position: relative;
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.img{
+    background-color: rgb(194, 193, 193);
+}
+.social-links{
+    color: white;
+}
+.social-links:hover{
+ 
+    cursor: pointer;
+}
+footer{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
